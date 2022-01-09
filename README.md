@@ -3,9 +3,12 @@
 I'm a 2nd year Computer Science and Engineering major at UCI!
 
 Languages I know: **Python, Java, C++, HTML/CSS**
-![Python Icon](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png)
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python Icon" width="200"/>
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java Icon" width="200"/>
+<img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="C++ Icon" width="200"/>
+<!--![Python Icon](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png)
 ![Java Icon](https://cdn-icons-png.flaticon.com/512/226/226777.png)
-![C++ Icon](https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png)
+![C++ Icon](https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png)--!>
 
 Currently learning Django and will soon be learning React!
 
