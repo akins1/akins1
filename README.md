@@ -1,6 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Akshay 👋
 
-I'm a 2nd year CSE major at UCI!
+I'm a 2nd year Computer Science and Engineering major at UCI!
+
+Languages I know: **Python, Java, C++, HTML/CSS**
+Currently learning Django and will soon be learning React!
+I am interested in Cybersecurity and Cloud Computing.
+
+I'm looking to collaborate on *ICSSC Projects* in the future.
+
 
 <!--
 **akins1/akins1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
