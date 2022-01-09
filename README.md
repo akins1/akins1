@@ -6,16 +6,15 @@ Languages I know: **Python, Java, C++, HTML/CSS**
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python Icon" width="200"/>
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java Icon" width="200"/>
 <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="C++ Icon" width="200"/>
-<!--![Python Icon](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png)
-![Java Icon](https://cdn-icons-png.flaticon.com/512/226/226777.png)
-![C++ Icon](https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png)--!>
 
-Currently learning Django and will soon be learning React!
+
+Currently learning Django and will soon be learning React!  
 
 I am interested in Cybersecurity and Cloud Computing.  
 
 
 I'm looking to collaborate on *ICSSC Projects* in the future.
+
 
 
 <!--
