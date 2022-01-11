@@ -13,7 +13,7 @@ Currently learning Django and will soon be learning React!
 I am interested in Cybersecurity and Cloud Computing.  
 
 
-I'm looking to collaborate on *ICSSC Projects* in the future.
+I'm looking to collaborate on [*ICSSC Projects*](https://github.com/icssc-projects) in the future.
 
 
 
