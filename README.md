@@ -8,7 +8,7 @@ Languages I know: **Python, Java, C++, HTML/CSS**
 <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="C++ Icon" width="200"/>
 
 
-Currently learning Django and React!  
+Currently learning and taking courses in Java, C++ and React!  
 
 I am interested in Cybersecurity and Cloud Computing.  
 
